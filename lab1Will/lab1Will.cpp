@@ -47,6 +47,7 @@ int main() {
         cout << "Erreur: le terme saisi n'appartient pas a la suite de Wallis." << endl;
     }
 
+    //si j'ai fais comme ca?
     cout << "Programme termine." << endl;
     
     return EXIT_SUCCESS;
